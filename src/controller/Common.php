@@ -1,5 +1,5 @@
 <?php
-namespace atrendsoft\rbac\authadmin\controller;
+namespace chenqianhao\rbac\controller;
 use think\Controller;
 use authadmin\Auth;
 use think\Db;

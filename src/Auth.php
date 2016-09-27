@@ -1,6 +1,6 @@
 <?php
 
-namespace trendsoft\rbac;
+namespace chenqianhao\rbac;
 use think\Db;
 /**
  * 权限认证类
