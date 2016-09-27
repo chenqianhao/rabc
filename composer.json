@@ -1,0 +1,15 @@
+{
+    "name": "trendsoft/rbac",
+    "description": "rbac",
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "frankchen",
+            "email": "68527761@qq.com"
+        }
+    ],
+    "require-dev": {
+        "topthink/framework": "^5.0",
+        "phpunit/phpunit": "^5.5"
+    }
+}
