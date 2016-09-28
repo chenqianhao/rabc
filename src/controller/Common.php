@@ -1,7 +1,7 @@
 <?php
 namespace chenqianhao\rbac\controller;
 use think\Controller;
-use authadmin\Auth;
+use chenqianhao\rbac\Auth;
 use think\Db;
 use think\Request;
 class Common  extends Controller
